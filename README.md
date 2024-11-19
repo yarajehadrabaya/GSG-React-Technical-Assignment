@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # GSG-React-Technical-Assignment
 =======
 # React + TypeScript + Vite
@@ -52,3 +53,6 @@ export default tseslint.config({
 })
 ```
 >>>>>>> master
+=======
+# GSG-React-Technical-Assignment
+>>>>>>> 478d43392d25177797f45a41992618b99585856e
