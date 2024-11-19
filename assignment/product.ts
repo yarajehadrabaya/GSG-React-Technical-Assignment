@@ -35,4 +35,14 @@ function checkstr(input: string): boolean {
     // if the match method return an array that means the input  matches the regx pattern so it is converted to true using "!!" operator . 
     // if the match method return null that means  the input dosent match with the pattern so its converted to false using "!!" operator .
   }
+
+
+
+
+
+
+
+
+
+  
   
