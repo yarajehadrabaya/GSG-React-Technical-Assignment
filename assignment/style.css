@@ -1,0 +1,21 @@
+/* Task 1 */
+h1 {
+    /* Center the heading on the page. */
+    text-align: center;
+}
+
+ul {
+    /* Add a 1px border to the list  */
+    border: 1px solid black;
+    
+    /*  set the list’s background color to light gray. */
+    background-color: lightgray;
+}
+
+li {
+    /* Make the list items bold  */
+    font-weight: bold;
+
+    /* Make the list  green. */
+    color: green;
+}
