@@ -1,5 +1,10 @@
 // Tasks 4 and 5.  
 
+// how to run TypeScript code:
+// 1-install type script if not installed.
+// 2-compiling TypeScript to JavaScript using this command on terminal :  tsc tasks.ts , This creates a js file [product.js] for it in the same directory.
+// 3-run the JavaScript file using Node.js , on terminal you can use this command line:  node product.js 
+
 
 // task4:
 
@@ -44,5 +49,5 @@ function checkstr(input: string): boolean {
 
 
 
-  
+
   
